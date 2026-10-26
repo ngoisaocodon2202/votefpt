@@ -1,0 +1,10 @@
+.git
+.next
+node_modules
+*.zip
+*.log
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+/public/uploads
